@@ -15,7 +15,7 @@ st.set_page_config(layout = 'wide')
 # Title
 image = Image.open('logo.jpg')
 
-st.image(image, width =1000, )
+st.image(image, width =200 )
 
 st.title('Cryptonite: App för kryptopris')
 
